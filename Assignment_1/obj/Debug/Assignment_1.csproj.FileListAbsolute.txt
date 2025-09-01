@@ -1,0 +1,8 @@
+C:\Users\vansh\Desktop\C# Assignment\Assignment_1\bin\Debug\Assignment_1.exe.config
+C:\Users\vansh\Desktop\C# Assignment\Assignment_1\bin\Debug\Assignment_1.exe
+C:\Users\vansh\Desktop\C# Assignment\Assignment_1\bin\Debug\Assignment_1.pdb
+C:\Users\vansh\Desktop\C# Assignment\Assignment_1\obj\Debug\Assignment_1.csproj.AssemblyReference.cache
+C:\Users\vansh\Desktop\C# Assignment\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\vansh\Desktop\C# Assignment\Assignment_1\obj\Debug\Assignment_1.exe
+C:\Users\vansh\Desktop\C# Assignment\Assignment_1\obj\Debug\Assignment_1.pdb
+C:\Users\vansh\Desktop\C# Assignment\Assignment_1\obj\Debug\Assignment_1.exe.config
