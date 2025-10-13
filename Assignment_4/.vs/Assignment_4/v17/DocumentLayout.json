@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_4\\ques10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|solutionrelative:ques10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_4\\ques9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|solutionrelative:ques9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_4\\ques8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|solutionrelative:ques8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_4\\ques7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|solutionrelative:ques7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_4\\ques6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|solutionrelative:ques6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_4\\ques5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|solutionrelative:ques5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_4\\ques4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|solutionrelative:ques4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_4\\ques3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|solutionrelative:ques3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_4\\ques2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|solutionrelative:ques2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_4\\ques1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B92F39-DCB0-4B42-8D49-0E1BA526A0CC}|Assignment_4.csproj|solutionrelative:ques1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ques10.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques10.cs",
+              "RelativeDocumentMoniker": "Ques10.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques10.cs",
+              "RelativeToolTip": "Ques10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:55:01.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ques2.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques2.cs",
+              "RelativeDocumentMoniker": "Ques2.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques2.cs",
+              "RelativeToolTip": "Ques2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:53:13.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ques3.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques3.cs",
+              "RelativeDocumentMoniker": "Ques3.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques3.cs",
+              "RelativeToolTip": "Ques3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:53:24.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ques4.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques4.cs",
+              "RelativeDocumentMoniker": "Ques4.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques4.cs",
+              "RelativeToolTip": "Ques4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:53:36.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ques5.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques5.cs",
+              "RelativeDocumentMoniker": "Ques5.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques5.cs",
+              "RelativeToolTip": "Ques5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:54:01.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ques6.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques6.cs",
+              "RelativeDocumentMoniker": "Ques6.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques6.cs",
+              "RelativeToolTip": "Ques6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:54:15.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ques7.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques7.cs",
+              "RelativeDocumentMoniker": "Ques7.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques7.cs",
+              "RelativeToolTip": "Ques7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:54:25.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ques8.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques8.cs",
+              "RelativeDocumentMoniker": "Ques8.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques8.cs",
+              "RelativeToolTip": "Ques8.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwCwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:54:38.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ques9.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques9.cs",
+              "RelativeDocumentMoniker": "Ques9.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques9.cs",
+              "RelativeToolTip": "Ques9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:54:49.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ques1.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques1.cs",
+              "RelativeDocumentMoniker": "Ques1.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_4\\Ques1.cs",
+              "RelativeToolTip": "Ques1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:52:26.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_5\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|solutionrelative:q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_5\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|solutionrelative:q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_5\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|solutionrelative:q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_5\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|solutionrelative:q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_5\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|c:\\users\\vansh\\desktop\\c# assignment\\assignment_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BBFBFE-CB8E-424D-A7E5-D6916190045C}|Assignment_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q5.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Q5.cs",
+              "RelativeDocumentMoniker": "Q5.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Q5.cs",
+              "RelativeToolTip": "Q5.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:42:59.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q4.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Q4.cs",
+              "RelativeDocumentMoniker": "Q4.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Q4.cs",
+              "RelativeToolTip": "Q4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:38:18.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q3.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Q3.cs",
+              "RelativeDocumentMoniker": "Q3.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Q3.cs",
+              "RelativeToolTip": "Q3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:32:25.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q2.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Q2.cs",
+              "RelativeDocumentMoniker": "Q2.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Q2.cs",
+              "RelativeToolTip": "Q2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:08:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q1.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Q1.cs",
+              "RelativeDocumentMoniker": "Q1.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Q1.cs",
+              "RelativeToolTip": "Q1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:08:10.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\C# Assignment\\Assignment_5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:06:14.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
